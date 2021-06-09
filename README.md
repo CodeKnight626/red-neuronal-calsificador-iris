@@ -17,5 +17,5 @@ Usando tensorflow crearemos un modelo de una capa de entrada, una capa oculta y 
 
 <p align="center">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='75px'>
-  <img src='https://camo.githubusercontent.com/a3c9f299797a65df6f8150514172d4324aba6e467feacdf6f749721c519a1ffc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37612f435f53686172705f6c6f676f2e737667' height='75px'>
+  <img src='https://camo.githubusercontent.com/8147cdd8b4658a8f00bfe7c1cee6c7fb44b2be0fb794515b40e69180774e2c0e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32642f54656e736f72666c6f775f6c6f676f2e737667' height='75px'>
 </p>
